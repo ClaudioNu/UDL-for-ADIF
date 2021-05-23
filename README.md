@@ -15,6 +15,11 @@ Orange - Information about  the QSO
 
 Fell free to change the format or to add new fields.
 
+To use:
+On Notepad++ go to "Language", then "User Defined Language" and "Define your Language".
+Select the "Import" button and select the ADIF_UDL.xml file, close the window "User Defines Language".
+Then Select the ADIF format on the "Language" menu option. That it's all!
+
 Note: The UDL formatter rely on spaces to intentify fields, as the ADIF format don't use the space as a separator turned out very hard to be more specific with the format scheme.
 
 Claudio CX8FS
