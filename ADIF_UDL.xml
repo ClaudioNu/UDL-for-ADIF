@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="ADIF" ext=".adi" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="yes" Keywords2="yes" Keywords3="yes" Keywords4="yes" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments"></Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1"></Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open">&lt;eoh&gt;</Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close">&lt;EOR&gt;</Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">&lt;ADDRESS&#x000D;&#x000A;&lt;AGE&#x000D;&#x000A;&lt;ARRL_SECT&#x000D;&#x000A;&lt;CALL&#x000D;&#x000A;&lt;CNTY&#x000D;&#x000A;&lt;CONT&#x000D;&#x000A;&lt;CONTACTED_OP&#x000D;&#x000A;&lt;COUNTRY&#x000D;&#x000A;&lt;CQZ&#x000D;&#x000A;&lt;DXCC&#x000D;&#x000A;&lt;EMAIL&#x000D;&#x000A;&lt;EQ_CALL&#x000D;&#x000A;&lt;GRIDSQUARE&#x000D;&#x000A;&lt;IOTA&#x000D;&#x000A;&lt;IOTA_ISLAND_ID&#x000D;&#x000A;&lt;ITUZ&#x000D;&#x000A;&lt;LAT&#x000D;&#x000A;&lt;LON&#x000D;&#x000A;&lt;NAME&#x000D;&#x000A;&lt;PFX&#x000D;&#x000A;&lt;QTH&#x000D;&#x000A;&lt;QSL_VIA&#x000D;&#x000A;&lt;RIG&#x000D;&#x000A;&lt;RX_PWR&#x000D;&#x000A;&lt;SIG&#x000D;&#x000A;&lt;SIG_INFO&#x000D;&#x000A;&lt;STATE&#x000D;&#x000A;&lt;WEB</Keywords>
+            <Keywords name="Keywords2">&lt;ANT_AZ&#x000D;&#x000A;&lt;ANT_EL&#x000D;&#x000A;&lt;ANT_PATH&#x000D;&#x000A;&lt;MY_ANTENNA&#x000D;&#x000A;&lt;MY_CITY&#x000D;&#x000A;&lt;MY_CNTY&#x000D;&#x000A;&lt;MY_COUNTRY&#x000D;&#x000A;&lt;MY_CQ_ZONE&#x000D;&#x000A;&lt;MY_DXCC&#x000D;&#x000A;&lt;MY_GRIDSQUARE&#x000D;&#x000A;&lt;MY_IOTA&#x000D;&#x000A;&lt;MY_IOTA_ISLAND_ID&#x000D;&#x000A;&lt;MY_ITU_ZONE&#x000D;&#x000A;&lt;MY_LAT&#x000D;&#x000A;&lt;MY_LON&#x000D;&#x000A;&lt;MY_NAME&#x000D;&#x000A;&lt;MY_POSTAL_CODE&#x000D;&#x000A;&lt;MY_RIG&#x000D;&#x000A;&lt;MY_SIG&#x000D;&#x000A;&lt;MY_SIG_INFO&#x000D;&#x000A;&lt;MY_STATE&#x000D;&#x000A;&lt;MY_STREET&#x000D;&#x000A;&lt;OPERATOR&#x000D;&#x000A;&lt;GUEST_OP&#x000D;&#x000A;&lt;OWNER_CALLSIGN&#x000D;&#x000A;&lt;STATION_CALLSIGN&#x000D;&#x000A;&lt;TX_PWR</Keywords>
+            <Keywords name="Keywords3">&lt;A_INDEX&#x000D;&#x000A;&lt;BAND&#x000D;&#x000A;&lt;BAND_RX&#x000D;&#x000A;&lt;CHECK&#x000D;&#x000A;&lt;CLASS&#x000D;&#x000A;&lt;COMMENT&#x000D;&#x000A;&lt;CONTEST_ID&#x000D;&#x000A;&lt;CREDIT_SUBMITTED&#x000D;&#x000A;&lt;CREDIT_GRANTED&#x000D;&#x000A;&lt;DISTANCE&#x000D;&#x000A;&lt;FREQ&#x000D;&#x000A;&lt;FREQ_RX&#x000D;&#x000A;&lt;K_INDEX&#x000D;&#x000A;&lt;MODE&#x000D;&#x000A;&lt;SUBMODE&#x000D;&#x000A;&lt;MS_SHOWER&#x000D;&#x000A;&lt;NOTES&#x000D;&#x000A;&lt;PROP_MODE&#x000D;&#x000A;&lt;QSO_COMPLETE&#x000D;&#x000A;&lt;QSO_DATE&#x000D;&#x000A;&lt;QSO_DATE_OFF&#x000D;&#x000A;&lt;QSO_RANDOM&#x000D;&#x000A;&lt;RST_RCVD&#x000D;&#x000A;&lt;RST_SENT&#x000D;&#x000A;&lt;SAT_MODE&#x000D;&#x000A;&lt;SAT_NAME&#x000D;&#x000A;&lt;SFI&#x000D;&#x000A;&lt;SRX&#x000D;&#x000A;&lt;SRX_STRING&#x000D;&#x000A;&lt;STX&#x000D;&#x000A;&lt;STX_STRING&#x000D;&#x000A;&lt;SWL&#x000D;&#x000A;&lt;TIME_OFF&#x000D;&#x000A;&lt;TIME_ON</Keywords>
+            <Keywords name="Keywords4">&lt;APP_&#x000D;&#x000A;&lt;EQSL_QSLRDATE&#x000D;&#x000A;&lt;EQSL_QSLSDATE&#x000D;&#x000A;&lt;EQSL_QSL_RCVD&#x000D;&#x000A;&lt;EQSL_QSL_SENT&#x000D;&#x000A;&lt;LOTW_QSLRDATE&#x000D;&#x000A;&lt;LOTW_QSLSDATE&#x000D;&#x000A;&lt;LOTW_QSL_RCVD&#x000D;&#x000A;&lt;LOTW_QSL_SENT&#x000D;&#x000A;&lt;QSLMSG&#x000D;&#x000A;&lt;QSLRDATE&#x000D;&#x000A;&lt;QSLSDATE&#x000D;&#x000A;&lt;QSL_RCVD&#x000D;&#x000A;&lt;QSL_RCVD_VIA&#x000D;&#x000A;&lt;QSL_SENT&#x000D;&#x000A;&lt;QSL_SENT_VIA&#x000D;&#x000A;&lt;CLUBLOG_&#x000D;&#x000A;&lt;HRDLOG_&#x000D;&#x000A;&lt;QRZCOM_</Keywords>
+            <Keywords name="Keywords5">AJA&#x000D;&#x000A;CQDX&#x000D;&#x000A;CQDXFIELD&#x000D;&#x000A;CQWAZ_MIXED&#x000D;&#x000A;CQWAZ_CW&#x000D;&#x000A;CQWAZ_PHONE&#x000D;&#x000A;CQWAZ_RTTY&#x000D;&#x000A;CQWAZ_160m&#x000D;&#x000A;CQWPX&#x000D;&#x000A;DARC_DOK&#x000D;&#x000A;DXCC&#x000D;&#x000A;DXCC_MIXED&#x000D;&#x000A;DXCC_CW&#x000D;&#x000A;DXCC_PHONE&#x000D;&#x000A;DXCC_RTTY&#x000D;&#x000A;IOTA&#x000D;&#x000A;JCC&#x000D;&#x000A;JCG&#x000D;&#x000A;MARATHON&#x000D;&#x000A;RDA&#x000D;&#x000A;WAB&#x000D;&#x000A;WAC&#x000D;&#x000A;WAE&#x000D;&#x000A;WAIP&#x000D;&#x000A;WAJA&#x000D;&#x000A;WAS&#x000D;&#x000A;WAZ&#x000D;&#x000A;USACA&#x000D;&#x000A;VUCC</Keywords>
+            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords7"></Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters">00&quot; 01 02&quot; 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontName="Calibri" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="0000FF" bgColor="FFFFFF" fontName="Calibri" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="FF0080" bgColor="FFFFFF" fontName="Calibri" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="FF8000" bgColor="FFFFFF" fontName="Calibri" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="FF00FF" bgColor="FFFFFF" fontName="Calibri" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="FFFF00" bgColor="FFFFFF" fontName="Calibri" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
